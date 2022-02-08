@@ -9,8 +9,7 @@
 	"extensions": [
 		"ms-vscode.cpptools"
 	],
-	// "forwardPorts": [],
-
+	
 	// Comment out this line to run as root instead.
 	"remoteUser": "vscode"
 
